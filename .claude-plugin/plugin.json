@@ -1,0 +1,17 @@
+{
+  "name": "electron-skills",
+  "version": "1.0.0",
+  "description": "Electron desktop application development skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/electron-skills",
+  "repository": "https://github.com/full-statck-skills/electron-skills",
+  "source": "./",
+  "skills": [
+    "./skills/electron-egg",
+    "./skills/electron",
+    "./skills/upgradeLink"
+  ]
+}
