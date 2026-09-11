@@ -1,7 +1,7 @@
 ---
 name: electron-egg
 description: Provides comprehensive guidance for Electron EGG framework including project structure, main/renderer processes, IPC, window management, and desktop app development. Use when the user asks about Electron EGG, needs to create Electron applications with EGG, or work with Electron EGG patterns.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

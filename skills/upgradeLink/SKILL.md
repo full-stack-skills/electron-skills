@@ -1,7 +1,7 @@
 ---
 name: upgradeLink
 description: Provides comprehensive guidance for upgrade link management including upgrade link creation, configuration, and upgrade link best practices. Use when the user asks about upgrade links, needs to create upgrade links, configure upgrade processes, or manage upgrade links.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
