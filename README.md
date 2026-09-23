@@ -44,7 +44,7 @@ npx skills add full-stack-skills/electron-skills --skill <skill-name>
 |-------|-------------|
 | `electron-egg` | Provides comprehensive guidance for Electron EGG framework including project structure, main/renderer processes, IPC,... |
 | `electron` | Provides comprehensive guidance for Electron framework including main process, renderer process, IPC communication, w... |
-| `upgradeLink` | Provides comprehensive guidance for upgrade link management including upgrade link creation, configuration, and upgra... |
+| `upgrade-link` | Provides comprehensive guidance for upgrade link management including upgrade link creation, configuration, and upgra... |
 
 ## 🤖 Supported Agents
 
