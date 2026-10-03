@@ -1,0 +1,4 @@
+interface:
+  display_name: "Electron Egg"
+  short_description: "Electron EGG framework including project structure…"
+  default_prompt: "Use $electron-egg to help with my current task: Provides comprehensive guidance for Electron EGG framework including project structure, main/renderer processes, IPC, window management, and desktop app development."

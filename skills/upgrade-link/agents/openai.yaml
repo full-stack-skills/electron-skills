@@ -1,0 +1,4 @@
+interface:
+  display_name: "Upgrade Link"
+  short_description: "upgrade link management including upgrade link creation…"
+  default_prompt: "Use $upgrade-link to help with my current task: Provides comprehensive guidance for upgrade link management including upgrade link creation, configuration, and upgrade link best practices."
